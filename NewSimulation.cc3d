@@ -1,0 +1,7 @@
+<Simulation version="3.7.7">
+   <PythonScript Type="PythonScript">Simulation/NewSimulation.py</PythonScript>
+   <PIFFile Type="PIFFile">Simulation/all cells uniform3d_v2.piff</PIFFile>
+   <Resource Type="Python">Simulation/NewSimulationSteppables.py</Resource>
+   <Resource Type="Python">Simulation/NewSimulation_parameters.py</Resource>
+   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.xml</ParameterScan>
+</Simulation>
